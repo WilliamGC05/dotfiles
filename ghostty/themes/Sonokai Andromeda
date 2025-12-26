@@ -1,0 +1,27 @@
+# Sonokai Andromeda — Ghostty theme
+# Ported from https://github.com/sainnhe/sonokai
+
+palette = 0=#2b2d3a
+palette = 1=#ff6578
+palette = 2=#9dd274
+palette = 3=#eacb64
+palette = 4=#72cce8
+palette = 5=#ba9cf3
+palette = 6=#f69c5e
+palette = 7=#e1e3e4
+palette = 8=#3e4050
+palette = 9=#ff6578
+palette = 10=#9dd274
+palette = 11=#eacb64
+palette = 12=#72cce8
+palette = 13=#ba9cf3
+palette = 14=#f69c5e
+palette = 15=#e1e3e4
+
+background = #2b2d3a
+foreground = #e1e3e4
+cursor-color = #e1e3e4
+cursor-text = #2b2d3a
+selection-background = #3e4050
+selection-foreground = #e1e3e4
+
