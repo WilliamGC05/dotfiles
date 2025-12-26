@@ -1,0 +1,23 @@
+
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+
+* {
+border: 0;
+margin: 0;
+padding: 0;
+spacing: 0;
+font: "JetBrainsMono Nerd Font 15";
+}
+
+window {
+  width: 20%;
+}
+
+configuration {
+  show-icons: true;
+  display-drun: "🍌";
+}
+
+element-icon {
+  margin: 0px 6px 0px 0px;
+}
